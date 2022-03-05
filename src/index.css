@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.todoList {
+    list-style: none;
+}
+
+.btn {
+    border: none;
+    background-color: brown;
+    border-radius: 30%;
+    color: white;
+}
+
+.li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-bottom: 5px;
+}
+
+.checkbox {
+    margin-right: 10px;
+}
+
+.done {
+    text-decoration: line-through;
+}
