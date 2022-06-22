@@ -10,6 +10,10 @@ Classic ***"Snake"*** game with keyboard controls
 - `React`
 - `Redux + Thunk`
 
+## Demo
+
+
+
 ## Installation
 
 To launch this game please follow this instructions:
@@ -18,7 +22,7 @@ To launch this game please follow this instructions:
 ```
     git clone https://github.com/BestMn/Snake-Game.git
 ```
- or download ZIP archive manually from repository
+ *or download ZIP archive manually from repository
 
 - Install required dependencies:
 ```
